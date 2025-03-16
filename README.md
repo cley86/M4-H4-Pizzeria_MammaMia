@@ -38,8 +38,9 @@ GET http://localhost:5000/api/pizzas → Obtiene la lista de pizzas.
 GET http://localhost:5000/api/pizzas/:id → Obtiene los detalles de una pizza específica.
 
 ## 📌 Funcionalidades Implementadas
-
+```
 ✅ Home: Muestra la lista de pizzas obtenidas desde la API.
 ✅ Detalle de Pizza: Permite ver información detallada de una pizza específica.
 ✅ Carrito de Compras: Agregar y visualizar productos en el carrito (sin funcionalidad completa).
 ✅ Consumo de API: Integración con el backend para obtener los datos en tiempo real.
+```
