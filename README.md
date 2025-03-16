@@ -18,16 +18,16 @@ Consumo de API: useEffect + Fetch API
 
 HITO4-PIZZERÍA_MAMMAMÍA
 │── src/
-│ ├── assets/ # Recursos estáticos (imágenes, etc.)
-│ ├── components/ # Componentes reutilizables (Navbar, Footer, etc.)
-│ ├── views/ # Páginas principales (Home, Pizza)
-│ ├── styles/ # Archivos de estilos
-│ ├── App.jsx # Componente principal
-│ ├── main.jsx # Punto de entrada de la aplicación
-│── public/ # Archivos estáticos
-│── package.json # Dependencias del proyecto
-│── vite.config.js # Configuración de Vite
-│── README.md # Documentación del proyecto
+│   ├── assets/              # Recursos estáticos (imágenes, etc.)
+│   ├── components/          # Componentes reutilizables (Navbar, Footer, etc.)
+│   ├── views/               # Páginas principales (Home, Pizza)
+│   ├── styles/              # Archivos de estilos
+│   ├── App.jsx              # Componente principal
+│   ├── main.jsx             # Punto de entrada de la aplicación
+│── public/                  # Archivos estáticos
+│── package.json             # Dependencias del proyecto
+│── vite.config.js           # Configuración de Vite
+│── README.md                # Documentación del proyecto
 
 📡 Consumo de la API
 
