@@ -1,4 +1,4 @@
-# 📌 Documentación del Proyecto - Pizzería Mamma Mía 🍕
+# 📌 Documentación - Pizzería Mamma Mía 🍕
 
 📝 Descripción del Proyecto
 
@@ -15,7 +15,7 @@ Gestión de Estado: useState
 Consumo de API: useEffect + Fetch API
 
 ## 📁 Estructura del Proyecto
-
+```
 HITO4-PIZZERÍA_MAMMAMÍA
 │── src/
 │ ├── assets/ # Recursos estáticos (imágenes, etc.)
@@ -28,7 +28,7 @@ HITO4-PIZZERÍA_MAMMAMÍA
 │── package.json # Dependencias del proyecto
 │── vite.config.js # Configuración de Vite
 │── README.md # Documentación del proyecto
-
+```
 ## 📡 Consumo de la API
 
 El frontend consume la API del backend mediante los siguientes endpoints:
